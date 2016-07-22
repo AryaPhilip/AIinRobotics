@@ -1,2 +1,2 @@
 # AIinRobotics
-Assignment solution for AI in Robotics - Udacity Course
+Assignment solutions for AI in Robotics - Udacity Course
